@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import joblib
-from typeguard import value
 
 def show():
     st.title("Model")
